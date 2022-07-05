@@ -1,7 +1,7 @@
 # 编译时选择固件格式和修改overla空间方法
 #
-# <img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/ov1.png" />
-# <img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/ov3.png" />
+# <img src="https://github.com/kurumiess/OP_README/blob/master/doc/ov1.png" />
+# <img src="https://github.com/kurumiess/OP_README/blob/master/doc/ov3.png" />
 - ## 设置overla空间容量的数值请不要使用"128、256、512、1024、2048、4096"等死亡数值，容易造成编译之时因为空间不足而编译失败
 #
 #
