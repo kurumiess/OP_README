@@ -1,5 +1,5 @@
 # 补丁制作方法
-- ### 《[点击查看全图片详细说明](https://github.com/danshui-git/shuoming/blob/master/%E6%96%B0%E8%A1%A5%E4%B8%81.md)》
+- ### 《[点击查看全图片详细说明](https://github.com/kurumiess/OP_README/blob/master/%E6%96%B0%E8%A1%A5%E4%B8%81.md)》
 ---
 - 用[WinSCP](https://winscp.net/eng/download.php)(文件协议F选择SCP)进入乌班图系统，按一下那个房子进入根目录
 - 新建目录（文件夹），名字叫diff，然后在diff文件夹里面建立test1.txt和test2.txt两个文件
@@ -8,21 +8,21 @@
 - 要记住test1.txt是原内容，你在源码文件复制内容过来粘贴保存，- test2.txt是修改好的，你复制内容过来粘贴后，修改好，保存，然后使用命令
 - `git diff test1.txt test2.txt > test.patch`
 #
-!<img src="https://github.com/danshui-git/shuoming/blob/master/doc/x001.png" />
+!<img src="https://github.com/kurumiess/OP_README/blob/master/doc/x001.png" />
 
 #
 - 用[putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/releases/0.74.html)连接乌班图系统，输入 `cd diff`  回车进入diff文件夹
 然后输入 `git diff test1.txt test2.txt > test.patch` 命令，回车就完成了，输入命令后也没啥提示跟改变的，刷新WinSCP查看
-!<img src="https://github.com/danshui-git/shuoming/blob/master/doc/x0004.png" />
+!<img src="https://github.com/kurumiess/OP_README/blob/master/doc/x0004.png" />
 #
 - 刷新WinSCP，能看到 test.patch 文件，这个就是补丁了
-!<img src="https://github.com/danshui-git/shuoming/blob/master/doc/x002.png" />
+!<img src="https://github.com/kurumiess/OP_README/blob/master/doc/x002.png" />
 
 #
 - 修改路径
 
-!<img src="https://github.com/danshui-git/shuoming/blob/master/doc/x0003.png" />
-!<img src="https://github.com/danshui-git/shuoming/blob/master/doc/x0005.png" />
+!<img src="https://github.com/kurumiess/OP_README/blob/master/doc/x0003.png" />
+!<img src="https://github.com/kurumiess/OP_README/blob/master/doc/x0005.png" />
 
 #
 - 补丁文件叫什么名字好像都没关系的，我懒的取名字，就默认名字前面加001-这样的，不过记得格式一定是（.patch）的

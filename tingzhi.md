@@ -4,6 +4,6 @@
 
 
 - ## 给自动停止的显示多样化，最简单就是去第三个图片的位置查看是不是有类似的英文字样了，位置在 Actions 然后点开你编译的就能查看
-- <img src="https://github.com/danshui-git/shuoming/blob/master/doc/tingzhi2.png" />
-- <img src="https://github.com/danshui-git/shuoming/blob/master/doc/tingzhi3.png" />
-- <img src="https://github.com/danshui-git/shuoming/blob/master/doc/tingzhi.png" />
+- <img src="https://github.com/kurumiess/OP_README/blob/master/doc/tingzhi2.png" />
+- <img src="https://github.com/kurumiess/OP_README/blob/master/doc/tingzhi3.png" />
+- <img src="https://github.com/kurumiess/OP_README/blob/master/doc/tingzhi.png" />

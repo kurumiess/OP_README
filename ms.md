@@ -13,7 +13,7 @@
 #
 - 两个密匙都正确使用后就可以使用微信通知跟发布功能了，友情提示：密匙注意不要随便泄露
 #
-- ### 发布密匙获取跟存放密匙的我做了图片教程，微信的密匙你们按上面的获取就可以了，存放是一样的。《[图片教程](https://github.com/danshui-git/shuoming/blob/master/jm.md)》
+- ### 发布密匙获取跟存放密匙的我做了图片教程，微信的密匙你们按上面的获取就可以了，存放是一样的。《[图片教程](https://github.com/kurumiess/OP_README/blob/master/jm.md)》
 #
 
 #
@@ -66,8 +66,8 @@
 #
 # - 把电报机器人通知改成微信通知或者pushplus推送方法
 #
-<img src="https://github.com/danshui-git/shuoming/blob/master/doc/thm1.png" />
-<img src="https://github.com/danshui-git/shuoming/blob/master/doc/thm2.png" />
-<img src="https://github.com/danshui-git/shuoming/blob/master/doc/thm3.png" />
-<img src="https://github.com/danshui-git/shuoming/blob/master/doc/thm4.png" />
-<img src="https://github.com/danshui-git/shuoming/blob/master/doc/thm5.png" />
+<img src="https://github.com/kurumiess/OP_README/blob/master/doc/thm1.png" />
+<img src="https://github.com/kurumiess/OP_README/blob/master/doc/thm2.png" />
+<img src="https://github.com/kurumiess/OP_README/blob/master/doc/thm3.png" />
+<img src="https://github.com/kurumiess/OP_README/blob/master/doc/thm4.png" />
+<img src="https://github.com/kurumiess/OP_README/blob/master/doc/thm5.png" />

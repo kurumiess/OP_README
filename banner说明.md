@@ -11,4 +11,4 @@
 #
 #
 - banner作用，看下图
-- <img src="https://github.com/danshui-git/shuoming/blob/master/doc/banner.png" />
+- <img src="https://github.com/kurumiess/OP_README/blob/master/doc/banner.png" />
