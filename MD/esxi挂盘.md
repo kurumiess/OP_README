@@ -1,9 +1,9 @@
 # ESXI挂载硬盘方法
 
-!<img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/gua1.png" />
-!<img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/gua2.png" />
-!<img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/gua3.png" />
-!<img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/gua4.png" />
+!<img src="https://github.com/kurumiess/OP_README/blob/master/doc/gua1.png" />
+!<img src="https://github.com/kurumiess/OP_README/blob/master/doc/gua2.png" />
+!<img src="https://github.com/kurumiess/OP_README/blob/master/doc/gua3.png" />
+!<img src="https://github.com/kurumiess/OP_README/blob/master/doc/gua4.png" />
 
 #
 #
