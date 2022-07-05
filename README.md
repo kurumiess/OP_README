@@ -43,7 +43,7 @@
 - > 23、《[SSH工具连接教程](https://github.com/kurumiess/OP_README/blob/master/MD/SSH连接说明.md)》
 - > 24、《[启动编译程序和SSH连接修改插件机型教程](https://github.com/kurumiess/OP_README/blob/master/MD/config.md)》
 - > 25、《[ESXI挂载硬盘方法](https://github.com/kurumiess/OP_README/blob/master/MD/esxi挂盘.md)》
-
+- > 25、《[编译消息推送](https://github.com/kurumiess/OP_README/blob/master/MD/ms.md)》
 #
 #
 - ## 鸣谢
