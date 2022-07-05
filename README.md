@@ -26,7 +26,7 @@
 - > 06、《[修改ip教程](https://github.com/kurumiess/OP_README/blob/master/MD/ip.md)》
 - > 07、《[启动编译程序和SSH连接修改插件机型等教程](https://github.com/kurumiess/OP_README/blob/master/MD/config.md)》
 - > 08、《[固件下载教程](https://github.com/kurumiess/OP_README/blob/master/MD/4%E5%9B%BA%E4%BB%B6%E4%B8%8B%E8%BD%BD.md)》
-- > 09、《[仓库密匙获取跟使用](https://github.com/kurumiess/OP_README/blob/master/MD/jm.md)》
+- > 09、《[修改文件跟删除仓库](https://github.com/kurumiess/OP_README/blob/master/MD/%E5%88%A0%E9%99%A4%E5%92%8C%E4%BF%AE%E6%94%B9%E6%96%87%E4%BB%B6.md)》
 - > 10、《[Telegram和pushplus的密匙获取方式](https://github.com/kurumiess/OP_README/blob/master/MD/bot.md)》
 - > 11、《[增加编译机型文件夹的方法](https://github.com/kurumiess/OP_README/blob/master/MD/jlck.md)》
 - > 12、《[定时触发开启编译说明](https://github.com/kurumiess/OP_README/blob/master/MD/%E5%AE%9A%E6%97%B6%E7%BC%96%E8%AF%91%E8%AF%B4%E6%98%8E.md)》
@@ -41,7 +41,6 @@
 - > 21、《[编译时增加NTFS格式盘挂载](https://github.com/kurumiess/OP_README/blob/master/MD/NTFS%E6%A0%BC%E5%BC%8F%E4%BC%98%E7%9B%98%E6%8C%82%E8%BD%BD)》
 - > 22、《[拉取插件命令和各种命令的简单介绍](https://github.com/kurumiess/OP_README/blob/master/MD/ming.md)》
 - > 23、《[编译出错时查看日志方法](https://github.com/kurumiess/OP_README/blob/master/MD/errors.md)》
-- > 24、《[修改文件跟删除仓库](https://github.com/kurumiess/OP_README/blob/master/MD/%E5%88%A0%E9%99%A4%E5%92%8C%E4%BF%AE%E6%94%B9%E6%96%87%E4%BB%B6.md)》
 
 #
 #
