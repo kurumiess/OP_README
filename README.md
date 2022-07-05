@@ -36,7 +36,7 @@
 - > 16、《[编译前，修改默认内核编译](https://github.com/kurumiess/OP_README/blob/master/MD/%E4%BF%AE%E6%94%B9%E5%86%85%E6%A0%B8%E7%89%88%E6%9C%AC.md)》
 - > 17、《[IPV4/IPV6选择，和去除网络共享](https://github.com/kurumiess/OP_README/blob/master/MD/%E5%85%B6%E4%BB%96%E8%AF%B4%E6%98%8E.md)》
 - > 18、《[banner的说明](https://github.com/kurumiess/OP_README/blob/master/MD/banner%E8%AF%B4%E6%98%8E.md)》
-- > 19、《[本地提取.config](https://github.com/kurumiess/OP_README/blob/master/MD/yijianconfig.md)》
+- > 19、《[本地提取.config](https://github.com/kurumiess/OP_README/blob/master/MD/本地提取.config.md)》
 - > 20、《[patch补丁制作](https://github.com/kurumiess/OP_README/blob/master/MD/buding.md)》
 - > 21、《[编译时增加NTFS格式盘挂载](https://github.com/kurumiess/OP_README/blob/master/MD/NTFS%E6%A0%BC%E5%BC%8F%E4%BC%98%E7%9B%98%E6%8C%82%E8%BD%BD)》
 - > 22、《[拉取插件命令和各种命令的简单介绍](https://github.com/kurumiess/OP_README/blob/master/MD/ming.md)》
