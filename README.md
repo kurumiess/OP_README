@@ -17,7 +17,7 @@
 
 ---
 #
-- 编译openwrt两个常用的工具下载地址《[PuTTY(SSH)工具](https://github.com/kurumiess/OP_README/blob/master/MD/Putty%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD.md)》《[WinSCP文件管理](https://github.com/kurumiess/OP_README/blob/master/MD/WinSCP.md)》
+- > 编译 openwrt 常用工具《[PuTTY(SSH)工具](https://github.com/kurumiess/OP_README/blob/master/MD/Putty%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD.md)》《[WinSCP文件管理](https://github.com/kurumiess/OP_README/blob/master/MD/WinSCP.md)》
 - > 01、《[注册及登录github账号](https://github.com)》github个别地区或网络已筑墙,请自备梯子.
 - > 02、《[拉取仓库教程](https://github.com/kurumiess/OP_README/blob/master/MD/1%E6%8B%89%E5%8F%96%E4%BB%93%E5%BA%93.md)》
 - > 03、《[脚本简单介绍](https://github.com/kurumiess/OP_README/blob/master/MD/%E7%AE%80%E5%8D%95%E4%BB%8B%E7%BB%8D%E6%96%B0%E8%84%9A%E6%9C%AC.md)》
