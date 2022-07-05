@@ -6,9 +6,7 @@
 - [Tianling_source](https://github.com/immortalwrt/immortalwrt/tree/openwrt-18.06)，Luci版本=18.06、[查看内核版本](https://github.com/immortalwrt/immortalwrt/blob/openwrt-18.06/target/linux/x86/Makefile)
 - [openwrt_amlogic](https://github.com/coolsnowwolf/lede)，N1和晶晨系列CPU盒子专用（Luci版本=18.06、[内核以打包为准]）
 - 查看内核的时候查看文件的【KERNEL_PATCHVER:=x.xx】就是当前默认使用的内核版本
-
-- #
-- 
+---
 - 《[自动打包您所需的固件说明](https://github.com/danshui-git/shuoming/blob/master/Amlogic.md)》
 
 - 源码已直接加入【[常用插件列表](https://github.com/danshui-git/shuoming/blob/master/%E5%90%8D%E7%A7%B0.md)】
