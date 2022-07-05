@@ -66,8 +66,8 @@
 #
 # - 把电报机器人通知改成微信通知或者pushplus推送方法
 #
-<img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/thm1.png" />
-<img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/thm2.png" />
-<img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/thm3.png" />
-<img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/thm4.png" />
-<img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/thm5.png" />
+<img src="https://github.com/kurumiess/OP_README/blob/master/doc/thm1.png" />
+<img src="https://github.com/kurumiess/OP_README/blob/master/doc/thm2.png" />
+<img src="https://github.com/kurumiess/OP_README/blob/master/doc/thm3.png" />
+<img src="https://github.com/kurumiess/OP_README/blob/master/doc/thm4.png" />
+<img src="https://github.com/kurumiess/OP_README/blob/master/doc/thm5.png" />
