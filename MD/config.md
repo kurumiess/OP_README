@@ -12,24 +12,24 @@
 - 首先声明，所有视频都不是我做的，放视频在这里只是给大家了解一下怎么修改机型跟选择插件而已，不是叫大家对着视频照着干，千万不要这样做，你就看会什么东西在哪个位置就好了。
 
 ---
-- <img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/xinqi0.png" />
-- <img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/xinqi1.png" />
-- <img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/xinqi2.png" />
-- <img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/xinqi3.png" />
-- <img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/xinqi4.png" />
-- <img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/xinqi5.png" />
-- <img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/xinqi6.png" />
-- <img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/xinqi7.png" />
+- <img src="https://github.com/kurumiess/OP_README/blob/master/doc/xinqi0.png" />
+- <img src="https://github.com/kurumiess/OP_README/blob/master/doc/xinqi1.png" />
+- <img src="https://github.com/kurumiess/OP_README/blob/master/doc/xinqi2.png" />
+- <img src="https://github.com/kurumiess/OP_README/blob/master/doc/xinqi3.png" />
+- <img src="https://github.com/kurumiess/OP_README/blob/master/doc/xinqi4.png" />
+- <img src="https://github.com/kurumiess/OP_README/blob/master/doc/xinqi5.png" />
+- <img src="https://github.com/kurumiess/OP_README/blob/master/doc/xinqi6.png" />
+- <img src="https://github.com/kurumiess/OP_README/blob/master/doc/xinqi7.png" />
 #
 #
 - 输入命令：cd openwrt && make menuconfig
 #
 #
-- <img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/xinqi8.png" />
-- <img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/xinqi111.png" />
-- <img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/xinqi9.png" />
-- <img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/xinqi10.png" />
-- <img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/xinqi11.png" />
-- <img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/xinqi12.png" />
-- <img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/xinqi13.png" />
-- <img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/xinqi14.png" />
+- <img src="https://github.com/kurumiess/OP_README/blob/master/doc/xinqi8.png" />
+- <img src="https://github.com/kurumiess/OP_README/blob/master/doc/xinqi111.png" />
+- <img src="https://github.com/kurumiess/OP_README/blob/master/doc/xinqi9.png" />
+- <img src="https://github.com/kurumiess/OP_README/blob/master/doc/xinqi10.png" />
+- <img src="https://github.com/kurumiess/OP_README/blob/master/doc/xinqi11.png" />
+- <img src="https://github.com/kurumiess/OP_README/blob/master/doc/xinqi12.png" />
+- <img src="https://github.com/kurumiess/OP_README/blob/master/doc/xinqi13.png" />
+- <img src="https://github.com/kurumiess/OP_README/blob/master/doc/xinqi14.png" />
