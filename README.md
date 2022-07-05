@@ -9,7 +9,7 @@
 ---
 - 《[自动打包您所需的固件说明](https://github.com/danshui-git/shuoming/blob/master/Amlogic.md)》
 
-- 源码已直接加入【[常用插件列表](https://github.com/danshui-git/shuoming/blob/master/%E5%90%8D%E7%A7%B0.md)】
+- 《[常用插件列表](https://github.com/danshui-git/shuoming/blob/master/%E5%90%8D%E7%A7%B0.md)》
 
 - 《[如何在本地Ubuntu一键无脑编译](https://github.com/281677160/bendi)》
  
