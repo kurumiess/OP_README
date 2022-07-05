@@ -13,16 +13,16 @@
 #
 - [SSH工具下载](https://www.chiark.greenend.org.uk/~sgtatham/putty/releases/0.74.html)
 #
-!<img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/ssh01.png" width="650" height="418" />
-!<img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/ssh02.png" width="650" height="418" />
-!<img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/ssh3.png" width="650" height="438" />
-!<img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/01.png" width="650" height="418" />
-!<img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/02.png" />
-!<img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/003.png" width="650" height="418" />
-!<img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/03.png" />
-!<img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/04.png" />
-!<img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/05.png" />
-!<img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/06.png" />
+!<img src="https://github.com/kurumiess/OP_README/blob/master/doc/ssh01.png" width="650" height="418" />
+!<img src="https://github.com/kurumiess/OP_README/blob/master/doc/ssh02.png" width="650" height="418" />
+!<img src="https://github.com/kurumiess/OP_README/blob/master/doc/ssh3.png" width="650" height="438" />
+!<img src="https://github.com/kurumiess/OP_README/blob/master/doc/01.png" width="650" height="418" />
+!<img src="https://github.com/kurumiess/OP_README/blob/master/doc/02.png" />
+!<img src="https://github.com/kurumiess/OP_README/blob/master/doc/003.png" width="650" height="418" />
+!<img src="https://github.com/kurumiess/OP_README/blob/master/doc/03.png" />
+!<img src="https://github.com/kurumiess/OP_README/blob/master/doc/04.png" />
+!<img src="https://github.com/kurumiess/OP_README/blob/master/doc/05.png" />
+!<img src="https://github.com/kurumiess/OP_README/blob/master/doc/06.png" />
 ---
 - ### 上图操作无非就是键盘上下键，确认的话有些按回车，有些按空格键，退出就选 EXIT 按回车，如果没这个选择就随便选一个项目按回车确认就退出了
 
@@ -30,6 +30,6 @@
 
 - ### 都选择完毕后，就一路的选择 EXIT 按回车退出就可以了，看到 YES OR NO 的选择的时候默认YES保存配置即可
 ---
-!<img src="https://github.com/kurumiess/OP_README/blob/master/MD/doc/07.png" />
+!<img src="https://github.com/kurumiess/OP_README/blob/master/doc/07.png" />
 #
 # - [SSH工具下载](https://www.chiark.greenend.org.uk/~sgtatham/putty/releases/0.74.html)
